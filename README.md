@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Josealma15
 - 👀 I’m interested in Programming, Hacking and Computer Science.
-- 🌱 I’m currently learning Haking and Penetratiin Testing.
+- 🌱 I’m currently learning Hacking and Penetration Testing.
 - 💞️ I’m looking to collaborate on hacking projects and tools. 
 - 📫 How to reach me, coming soon...
 
